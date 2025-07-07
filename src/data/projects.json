@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project KrishiSakhi",
+    "imageSrc": "projects/p1.png",
+    "description": "This is a project made to provide Digital literacy Platform to farmers online with multilingual support.",
+    "skills": ["HTML", "CSS", "Firebase"],
+    "demo": "https://akshadakhairnar.github.io/KrishiSakhi-byak/",
+    "source": "https://github.com/AkshadaKhairnar/KrishiSakhi-byak"
+  },
+  {
+    "title": "Project Rakshak",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to implement Accident Spot detection System using Android.",
+    "skills": ["Java", "Google Maps", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/AkshadaKhairnar/Rakshak"
+  },
+  {
+    "title": "Project Events",
+    "imageSrc": "projects/p4.png",
+    "description": "This is a project made to Manage all sort of Professional events and provide one stop solution.",
+    "skills": ["HTML", "Javascript"],
+    "demo": " https://akshadakhairnar.github.io/Professional-Event-Website-/",
+    "source": "https://github.com/AkshadaKhairnar/Professional-Event-Website-"
+  }
+]
